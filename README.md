@@ -9,6 +9,7 @@ I'm a developer who enjoys building projects and learning new technologies.
 
 ### 🧰 Tech Stack
 - JavaScript, Python  
+- React.js, Next.js, Vue.js  
 - Git & GitHub  
 
 ### 📊 GitHub Stats
